@@ -14,6 +14,6 @@ cask "mousecape" do
   
     depends_on macos: ">= :mountain_lion"
   
-    app "MiddleClick.app"
+    app "Mousecape.app"
     appcast 'https://github.com/alexzielenski/Mousecape/releases.atom'
   end
